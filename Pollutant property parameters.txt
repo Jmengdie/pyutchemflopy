@@ -1,0 +1,6 @@
+Parameters	             Water	               Chloroform (CHCl3)
+Density(g/cm3)	             1.000	                1.48
+Viscosity(Pa﹒s)（20℃）	     0.001	              0.000563
+Residual saturation	         0.24	            0.05-0.2(取0.1)
+Solubility of chloroform in water(g/L)	—	  8.09(体积分数0.0054)
+Interfacial tension between chloroform and water(mN/m)	32-35(lg35=1.544)
